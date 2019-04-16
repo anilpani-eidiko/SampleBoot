@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* IcpsApplication
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.icps.IcpsApplication
